@@ -12,10 +12,15 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "Dt_Vagas&Sequence_1",
+        "vrIntIndex&Sequence_1",
+        "Dt_Resultado&Sequence_1",
+        "ExtractDataTable&Sequence_13",
+        "vrStrVagaDescricao&Sequence_13",
+        "vrStrVagaSalario&Sequence_13",
         "varStrBusca&Sequence_1",
         "StrNomeVaga&Sequence_9",
         "Dt_Vagas&Sequence_9",
-        "Dt_Vagas&Sequence_2",
         "StrNomeVaga&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
