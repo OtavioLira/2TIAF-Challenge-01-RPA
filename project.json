@@ -1,5 +1,6 @@
 {
   "name": "Webscrapping",
+  "projectId": "ea7e3c00-19b5-4ee8-8620-0eee496eb78d",
   "description": "Ao realizar o webscrapping das vagas, armazenar o máximo possível de informação em um formato de dataset",
   "main": "Main.xaml",
   "dependencies": {
@@ -41,7 +42,7 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": true
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
